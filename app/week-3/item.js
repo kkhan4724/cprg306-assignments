@@ -4,7 +4,7 @@ export default function Item({name, quantity, category}) {
             
             <p className="font-bold">{name}</p>
             <p className="text-sm">Quantity: {quantity}</p>
-            <p className="text-sn">Category: {category}</p>
+            <p className="text-sm">Category: {category}</p>
 
         </li>
 
