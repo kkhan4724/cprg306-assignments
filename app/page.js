@@ -20,6 +20,11 @@ export default function Page() {
             Go to Week 4 Page
           </Link>
         </p>
+        <p>
+          <Link href="/week-5" className="text-blue-500 hover:underline">
+            Go to Week 5 Page
+          </Link>
+        </p>
       </div>
     </div>
   );
