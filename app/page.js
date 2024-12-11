@@ -55,6 +55,20 @@ export default function Page() {
               </span>
             </Link>
           </p>
+          <p>
+            <Link href="/week-8">
+              <span className="block w-full text-center py-2 bg-blue-600 rounded-md text-white font-semibold hover:bg-blue-700 transition">
+                Go to Week 9 Page
+              </span>
+            </Link>
+          </p>
+          <p>
+            <Link href="/week-8">
+              <span className="block w-full text-center py-2 bg-blue-600 rounded-md text-white font-semibold hover:bg-blue-700 transition">
+                Go to Week 10 Page
+              </span>
+            </Link>
+          </p>
         </div>
       </div>
     </main>
